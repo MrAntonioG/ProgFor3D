@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Coursework.AI">
+    <Position X="16" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAAEAAAAAAAABAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClasses\AI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Character">
+    <Position X="9.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAQAYAABAEgAAAAEAAAEBAAAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>AbstractClasses\CharacterClasses\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.CharacterController">
+    <Position X="4.25" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIggKEAIAChAAAAAAAAAABAAAIAQAACECAAgBAgAI=</HashCode>
+      <FileName>AbstractClasses\CharacterClasses\CharacterController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.CharacterModel">
+    <Position X="14.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACIAAAAAAAABAAAAAAAIAAAACAAAAgAgAAI=</HashCode>
+      <FileName>AbstractClasses\CharacterClasses\CharacterModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.CharacterStats">
+    <Position X="26.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAEAAAABAAAAAAAAAAIAAAACAAgAAAAAAAg=</HashCode>
+      <FileName>AbstractClasses\CharacterClasses\CharacterStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Collectable">
+    <Position X="23.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClasses\Collectables\Collectable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Gem">
+    <Position X="28" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAADAAAAAAAAAIAAQAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClasses\Collectables\Gem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Gun">
+    <Position X="32.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQoAAAAAgAAAAYAAIAIAACACAAEAAAAAAAAAAAgIAA=</HashCode>
+      <FileName>AbstractClasses\Collectables\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.PowerUp">
+    <Position X="20" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAADAAAAAAAAAIAAAAAAAAAgAAAAIAAAAAAAA=</HashCode>
+      <FileName>AbstractClasses\Collectables\PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Projectile">
+    <Position X="8.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQB0AAABCAAAAQAIAAAACABAAIAAQAAQAAAAAAAAEI=</HashCode>
+      <FileName>AbstractClasses\Collectables\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.GameElement">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAARCAAAAQoAAAAAAAAAAAAQgQAAEAAAAAAAAA=</HashCode>
+      <FileName>AbstractClasses\GameElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Level">
+    <Position X="13" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAEIECAJABAoCAAQCAAAA=</HashCode>
+      <FileName>AbstractClasses\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.LevelStats">
+    <Position X="30.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQAAIAEAAAAAAAIAAAAAgAEAEAABAAAggAAAgAAAE=</HashCode>
+      <FileName>AbstractClasses\LevelStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.MovableElement">
+    <Position X="19" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAEAAAQAAQAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClasses\MovableElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Stat">
+    <Position X="4.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABABBAAAAAAAABAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>AbstractClasses\Stat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.BlueGem">
+    <Position X="30.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collectables\BlueGem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.HealthPU">
+    <Position X="17.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collectables\HealthPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.LifePU">
+    <Position X="20" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collectables\LifePU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.RedGem">
+    <Position X="28.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collectables\RedGem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.ShieldPU">
+    <Position X="22.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collectables\ShieldPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Enemy">
+    <Position X="10.25" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.EnemyAI">
+    <Position X="16" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAQA=</HashCode>
+      <FileName>Enemy\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.EnemyController">
+    <Position X="5.25" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABAAAAAQAAAAAAAAAEAAABAAAAAQAAAEA=</HashCode>
+      <FileName>Enemy\EnemyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.EnemyStats">
+    <Position X="27.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Enemy\EnemyStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Robot">
+    <Position X="10.25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQhCAAAACgABAAIAKAAAACAAAAAAAAAAAAAAAAAIQA=</HashCode>
+      <FileName>Enemy\Robot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.RobotModel">
+    <Position X="13.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABgAAECKgAIgAgAgwACQQAEAAAAAAAwgAAAABAAAQ=</HashCode>
+      <FileName>Enemy\RobotModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Environment">
+    <Position X="43.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IkgQoAAAACAgAAAIAAAAAAAAAAIQAAAAAAAEAQAAAAA=</HashCode>
+      <FileName>Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Game">
+    <Position X="35.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAACQgEAABAQBBAAAgEABAoBAABABECAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Ground">
+    <Position X="44.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAASCAAAAYAAAAAAEEQAAAABAAAAAAICAAAAA=</HashCode>
+      <FileName>Ground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Bomb">
+    <Position X="11" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guns\Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.BombDropper">
+    <Position X="32.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQAAAAIAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guns\BombDropper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Cannon">
+    <Position X="35" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQAAAAIAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guns\Cannon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.CannonBall">
+    <Position X="6.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guns\CannonBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.CollectableGun">
+    <Position X="24.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAABABCAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Guns\CollectableGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.EnemyShot">
+    <Position X="8.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guns\EnemyShot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.InputsManager">
+    <Position X="39.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAAAQEAAAEAAAAAAAAAAABgAAAAYAAAABAAAAA=</HashCode>
+      <FileName>InputsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Level1Stats">
+    <Position X="28.5" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Levels\Level1Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Level2Stats">
+    <Position X="30.75" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Levels\Level2Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Level3Stats">
+    <Position X="33" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Levels\Level3Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.LevelGen">
+    <Position X="13" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARQAAAAAAiAAQgAICFgBAAIAAAAAQAAAAAABAAAAACA=</HashCode>
+      <FileName>Levels\LevelGen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.ModelElement">
+    <Position X="2.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIAAEAAAAAAAAAAAEAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>ModelElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Armoury">
+    <Position X="37.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEAAACBIAAQCAAAAAIAAAACAAAACA=</HashCode>
+      <FileName>PlayerClasses\Armoury.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Player">
+    <Position X="8" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBCAAAACgAJAAIECACABAAAAAAAAAACAAAAAAAAQA=</HashCode>
+      <FileName>PlayerClasses\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.PlayerController">
+    <Position X="3" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAIAAAACACAAAAAIAAAACAAAAAAAAEA=</HashCode>
+      <FileName>PlayerClasses\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.PlayerModel">
+    <Position X="15.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIIABAAAAAABAAQAUAEAAAAAICgAAAAoAAA=</HashCode>
+      <FileName>PlayerClasses\PlayerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.PlayerStats">
+    <Position X="25.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAAAAAAgAAAAIAAAAAAAAAAAAAAgCAAAgAAA=</HashCode>
+      <FileName>PlayerClasses\PlayerStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Score">
+    <Position X="4.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerClasses\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.GameInterface">
+    <Position X="23.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IGQRgAABACACAwAAAAAIAAQAAAMAgAAhQgAAAUAwAwE=</HashCode>
+      <FileName>UI\GameInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.HMD">
+    <Position X="21.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAgAAgACAAAAAIAAAAABQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\HMD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.WinScreen">
+    <Position X="19.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBgAAAACAAAQAAAAAIAAAABAEAAEABAAAAAQAAAQE=</HashCode>
+      <FileName>UI\WinScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework.Wall">
+    <Position X="45.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAgAAAAEAIACAAAAAACBQIAAAAAAIEAAAAAAE=</HashCode>
+      <FileName>Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.Contacts" Collapsed="true">
+    <Position X="34.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>AbstractClasses\PhysicsEng\Contacts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.ElasticForce" Collapsed="true">
+    <Position X="32.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAIAABAAAAAABAAAAAAAEEgAABEABAABA=</HashCode>
+      <FileName>AbstractClasses\PhysicsEng\ElasticForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.Force" Collapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAgAAAAAAAAAAAAAADAAAAAAAAAABAAAA=</HashCode>
+      <FileName>AbstractClasses\PhysicsEng\Force.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.FrictionForce" Collapsed="true">
+    <Position X="34.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIIAAAAAAAAgAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>AbstractClasses\PhysicsEng\FrictionForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.Physics" Collapsed="true">
+    <Position X="32.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBBAAAAAKScAAAIAAAgIJEIAAAgAAIAABQAAACAAAA=</HashCode>
+      <FileName>AbstractClasses\PhysicsEng\Physics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.PhysObj" Collapsed="true">
+    <Position X="32.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIRBAICAAAxBAgAAAANxAgBBGAQAAQEEQEAEAEEgQ=</HashCode>
+      <FileName>AbstractClasses\PhysicsEng\PhysObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.WeightForce" Collapsed="true">
+    <Position X="30.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+      <FileName>AbstractClasses\PhysicsEng\WeightForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

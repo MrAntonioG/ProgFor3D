@@ -1,0 +1,18 @@
+material MaterialExample
+{
+	technique
+	{
+		pass
+		{
+			//scene_blend alpha_blend
+			
+			texture_unit
+			{
+				//texture grass_02.png
+				texture clouds.jpg
+				//tex_address_mode mirror
+				scroll_anim 0.1 0.1
+			}
+		}
+	}
+}

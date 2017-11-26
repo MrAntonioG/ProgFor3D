@@ -1,0 +1,15 @@
+material RedGem
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture RedGradient.png
+			}
+		}
+
+	}
+
+}

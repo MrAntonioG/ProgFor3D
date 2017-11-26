@@ -1,0 +1,19 @@
+E:\Prog 4 3D\Coursework\bin\Release\Tutorial.exe.config
+E:\Prog 4 3D\Coursework\bin\Release\Tutorial.exe
+E:\Prog 4 3D\Coursework\bin\Release\Tutorial.pdb
+E:\Prog 4 3D\Coursework\bin\Release\Mogre.dll
+E:\Prog 4 3D\Coursework\bin\Release\Mogre.TutorialFramework.dll
+E:\Prog 4 3D\Coursework\bin\Release\MOIS.dll
+E:\Prog 4 3D\Coursework\bin\Release\Mogre.xml
+E:\Prog 4 3D\Coursework\obj\x86\Release\Tutorial.exe
+E:\Prog 4 3D\Coursework\obj\x86\Release\Tutorial.pdb
+E:\Prog 4 3D\Coursework Code\bin\Release\Tutorial.exe.config
+E:\Prog 4 3D\Coursework Code\obj\x86\Release\Tutorial.exe
+E:\Prog 4 3D\Coursework Code\obj\x86\Release\Tutorial.pdb
+E:\Prog 4 3D\Coursework Code\bin\Release\Tutorial.exe
+E:\Prog 4 3D\Coursework Code\bin\Release\Tutorial.pdb
+E:\Prog 4 3D\Coursework Code\bin\Release\Mogre.dll
+E:\Prog 4 3D\Coursework Code\bin\Release\Mogre.TutorialFramework.dll
+E:\Prog 4 3D\Coursework Code\bin\Release\MOIS.dll
+E:\Prog 4 3D\Coursework Code\bin\Release\Mogre.xml
+E:\Prog 4 3D\Coursework Code\obj\x86\Release\Coursework.csprojResolveAssemblyReference.cache

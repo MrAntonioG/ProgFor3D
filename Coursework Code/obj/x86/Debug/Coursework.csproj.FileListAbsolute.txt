@@ -1,0 +1,14 @@
+E:\Prog 4 3D\Coursework\bin\Debug\Tutorial.exe.config
+E:\Prog 4 3D\Coursework\bin\Debug\Tutorial.exe
+E:\Prog 4 3D\Coursework\bin\Debug\Tutorial.pdb
+E:\Prog 4 3D\Coursework\bin\Debug\Mogre.xml
+E:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.exe
+E:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.pdb
+F:\Prog 4 3D\Coursework\bin\Debug\Tutorial.exe.config
+F:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.exe
+F:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.pdb
+F:\Prog 4 3D\Coursework\bin\Debug\Tutorial.exe
+F:\Prog 4 3D\Coursework\bin\Debug\Tutorial.pdb
+F:\Prog 4 3D\Coursework\bin\Debug\Mogre.xml
+F:\Prog 4 3D\Coursework\obj\x86\Debug\Coursework.csprojResolveAssemblyReference.cache
+E:\Prog 4 3D\Coursework\obj\x86\Debug\Coursework.csprojResolveAssemblyReference.cache

@@ -1,0 +1,45 @@
+vertex_program vertexShader hlsl
+{
+	source vertexShader.hlsl
+	entry_point main
+	target vs_1_1
+
+}
+
+
+material 10-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 1 1
+			diffuse 0 0 1 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Sphere
+{
+	technique
+	{
+		vertex_program_ref vertexShader
+			{
+				param_named_auto viewProj worldviewproj_matrix
+				param_named_auto time time
+			}
+		pass
+		{
+			ambient 0.0980392 0.6 0.141176 1
+			diffuse 0.0980392 0.6 0.141176 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}

@@ -1,0 +1,46 @@
+Win
+{
+	container Panel(BigBackground)
+	{
+		material     Core/StatsBlockCenter
+		metrics_mode pixels
+		top          0
+		left         0
+		width        1024
+		height       1024
+		
+		
+		
+		element TextArea(ScoreText2)
+		{
+			metrics_mode  pixels
+			left          512
+			top           6
+			font_name     BlueHighway
+			char_height   30
+			alignment     center
+			colour        1 0 0
+		}
+		
+		element TextArea(TimeText2)
+		{
+			metrics_mode  pixels
+			left          512
+			top           30
+			font_name     BlueHighway
+			char_height   30
+			alignment     center
+			colour        1 1 1
+		}
+		element TextArea(Win)
+		{
+			metrics_mode  pixels
+			left          512
+			top           30
+			font_name     BlueHighway
+			char_height   30
+			alignment     center
+			colour        0.8 0.56 0.75
+		}
+	}
+}

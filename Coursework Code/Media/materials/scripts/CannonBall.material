@@ -1,0 +1,15 @@
+material CannonBall
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.23 0.67 1
+			diffuse 1 0.23 0.67 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+}

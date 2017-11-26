@@ -1,0 +1,33 @@
+vertex_program vertexShader hlsl
+{
+	source vertexShader.hlsl
+	entry_point main
+	target vs_1_1
+
+}
+
+fragment_program pixelShader hlsl
+{
+	source pixelShader.hlsl
+	entry_point main
+	target ps_2_0
+}
+
+
+material Ground
+{
+	technique
+	{
+		pass
+		{
+			fragment_program_ref pixelShaderTest
+			{
+				
+			}
+			texture_unit
+			{
+				texture terr_dirt-grass.jpg
+			}
+		}
+	}
+}

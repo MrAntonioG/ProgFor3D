@@ -1,0 +1,39 @@
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo2\bin\Debug\Tutorial.exe.config
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.exe.config
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.exe
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.pdb
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Mogre.xml
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.exe
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.exe.config
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.exe
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.exe
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Mogre.xml
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\ag519\Prog 4 3D\Demo4\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\ag519\Prog 4 3D\Demo4\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\ag519\Prog 4 3D\Demo4\obj\x86\Debug\Tutorial.pdb
+F:\Prog 4 3D\Demo4\bin\Debug\Tutorial.exe.config
+F:\Prog 4 3D\Demo4\obj\x86\Debug\Tutorial.exe
+F:\Prog 4 3D\Demo4\obj\x86\Debug\Tutorial.pdb
+F:\Prog 4 3D\Demo4\bin\Debug\Tutorial.exe
+F:\Prog 4 3D\Demo4\bin\Debug\Tutorial.pdb
+F:\Prog 4 3D\Demo4\bin\Debug\Mogre.xml
+F:\Prog 4 3D\Demo4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+F:\Prog 4 3D\Coursework\bin\Debug\Tutorial.exe.config
+F:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.exe
+F:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.pdb
+F:\Prog 4 3D\Coursework\bin\Debug\Tutorial.exe
+F:\Prog 4 3D\Coursework\bin\Debug\Tutorial.pdb
+F:\Prog 4 3D\Coursework\bin\Debug\Mogre.xml
+F:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+E:\Prog 4 3D\Coursework\bin\Debug\Tutorial.exe.config
+E:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.exe
+E:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.pdb
+E:\Prog 4 3D\Coursework\bin\Debug\Tutorial.exe
+E:\Prog 4 3D\Coursework\bin\Debug\Tutorial.pdb
+E:\Prog 4 3D\Coursework\bin\Debug\Mogre.xml
+E:\Prog 4 3D\Coursework\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache

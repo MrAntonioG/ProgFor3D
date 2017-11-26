@@ -1,0 +1,16 @@
+material CannonBall
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture BlueGradient.png
+			}
+		}
+
+	}
+
+}
+}
